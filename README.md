@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shweta Misra!
-- 🌱 I’m currently pursuing masters in data science at KTH Royal Institute of Technology
+- 🌱 I’m currently work as a Machine Learning Engineer in Stockholm, Sweden
 - 💞️ I’m looking to collaborate on machine learning and NLP projects.
 - 📫 Write to me on shwetamisra24@gmail.com
 
