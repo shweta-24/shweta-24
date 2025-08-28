@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shweta Misra!
-- 🌱 I currently work as a Machine Learning Engineer in Stockholm, Sweden
-- 💞️ I’m looking to collaborate on machine learning and NLP projects.
+- 👋 Hi, My name is Shweta Misra!
+- 🌱 I am a Machine Learning Engineer living in the US.
+- 💞️ I’m actively looking for opportunities in the field of machine learning and NLP.
 - 📫 Write to me on shwetamisra24@gmail.com
 
 <!---
